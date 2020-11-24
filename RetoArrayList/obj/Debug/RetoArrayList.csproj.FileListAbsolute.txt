@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\RetoArrayList\RetoArrayList\bin\Debug\RetoArrayList.exe.config
+C:\Users\PC\Desktop\RetoArrayList\RetoArrayList\bin\Debug\RetoArrayList.exe
+C:\Users\PC\Desktop\RetoArrayList\RetoArrayList\bin\Debug\RetoArrayList.pdb
+C:\Users\PC\Desktop\RetoArrayList\RetoArrayList\obj\Debug\RetoArrayList.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\RetoArrayList\RetoArrayList\obj\Debug\RetoArrayList.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RetoArrayList\RetoArrayList\obj\Debug\RetoArrayList.exe
+C:\Users\PC\Desktop\RetoArrayList\RetoArrayList\obj\Debug\RetoArrayList.pdb
+C:\Users\DELL\Desktop\ArrayList-Cshap-master\RetoArrayList\obj\Debug\RetoArrayList.exe
+C:\Users\DELL\Desktop\ArrayList-Cshap-master\RetoArrayList\obj\Debug\RetoArrayList.pdb
